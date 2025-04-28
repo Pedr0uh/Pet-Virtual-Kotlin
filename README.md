@@ -2,7 +2,7 @@
 
 Um mini-game em Kotlin de Pet Virtual, com o objetivo de chegar ate 50 de idade sem ultrapassar os limites de status do Pet.
 
-*Regras
+**Regras
 
 - O objetivo é chegar à idade 50;
 - Se chegar ao nivel 100 de cansaço ou fome, perdera;
